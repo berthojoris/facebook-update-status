@@ -1,6 +1,6 @@
 <?php
-define('FB_APIKEY', '339554932739410');
-define('FB_SECRET', '8f2b6ac74a46e8bbfad235fa87bd6962');
+define('FB_APIKEY', 'aasdasdasd');
+define('FB_SECRET', 'sdfsdfsdf234234234');
 define('FB_SESSION', 'YOUR_SESSION_key');
 require_once('facebook-platform/php/facebook.php');
 try {
